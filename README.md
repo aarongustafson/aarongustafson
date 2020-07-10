@@ -1,7 +1,3 @@
-<figure style="float: right; margin: 0 0 1rem 1rem">
-<img class="photo" src="https://www.aaron-gustafson.com/i/headshots/2014-sm.jpg" srcset="https://www.aaron-gustafson.com/i/headshots/2014-sm.jpg 310w, https://www.aaron-gustafson.com/i/headshots/2014.jpg 713w" alt="" width="310" height="310">
-</figure>
-
 # Hi there 👋
 
 <p>My name is Aaron Gustafson and I work on the web.</p>
