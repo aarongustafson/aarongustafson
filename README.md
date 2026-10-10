@@ -1,14 +1,24 @@
 # Hi there 👋
 
-<p>My name is Aaron Gustafson and I work on the web.</p>
+My name is Aaron Gustafson, and I work on the web.
 
-<p>I am a long-time web developer in charge of running Microsoft’s $25m AI for Accessibility grant program. Prior to leading this efforts, I was a web standards &amp; accessibility advocate on the Edge browser team.</p>
+I’ve spent more than 30 years designing, developing, writing, teaching, consulting, and helping teams make better choices about the technology they loose upon the world. Today, I’m a Principal Technical Program Manager in Microsoft Accessibility Engineering. I build benchmarks and evaluation systems, agentic coding tools, and design software that help teams find and fix accessibility issues early.
 
-<p>When not wearing my Microsoft badge, I help organizations elegantly tackle the challenges presented by all the crazy devices and screens you see everywhere using <a href="https://en.wikipedia.org/wiki/Progressive_enhancement">progressive enhancement</a> via <a href="http://easy-designs.net">Easy Designs</a> and <a href="https://rosenfeldmedia.com/training/">Rosenfeld Media</a>. You might also catch me <a href="http://noti.st/aarongustafson/">presenting at conferences and running workshops</a> across the globe.</p>
+My team and I measure how well AI systems identify and repair accessibility issues, equip them with reliable tools and context, and weave accessibility into how designers and developers work—not tack it on at the end.
 
-<p>I think a lot about the future of Progressive Web Apps (PWAs) as part of the <a href="https://www.w3.org/groups/wg/webapps"><abbr title="World Wide Web Consortium">W3C</abbr>’s Web Applications Working Group</a>, an editor of several PWA-related specifications, and author of numerous feature proposals. In an effort to bring more designers and developers into the standards process, I founded <a href="https://webwewant.fyi">the Web We Want</a>. I also co-founded <a href="https://pwasummit.org">PWA Summit</a>, the event series <a href="http://codeandcreativity.com">Code &amp; Creativity</a>, and <a href="http://retreats4geeks.com">Retreats 4 Geeks</a>. In previous roles, I managed the <a href="http://webstandards.org">Web Standards Project (WaSP)</a>, published <a href="http://webstandardssherpa.com">Web Standards Sherpa</a>, and founded and ran the <a href="http://chadevicelab.org">Chattanooga Open Device Lab</a>.</p><p>I wrote the web design book <a href="http://zeldman.com">Jeffrey Zeldman</a> calls <a href="https://alistapart.com/column/doctor-is-in">a “modern classic”</a> and <a href="http://adactio.com">Jeremy Keith</a> calls <a href="https://adaptivewebdesign.info#adaptive-web-design-preview">“the clearest, most beautiful explanation of progressive enhancement I’ve ever read”</a>: <a href="https://adaptivewebdesign.info"><cite>Adaptive Web Design</cite></a>. I’ve also contributed to <a href="https://www.aaron-gustafson.com/publications/#books">numerous other titles</a>, have written <a href="https://www.aaron-gustafson.com/publications/#articles">dozens of articles</a>, and helped shape countless others’ written work as a Tech Editor and Editor in Chief for the esteemed magazine <a href="http://alistapart.com"><cite>A List Apart</cite></a>.</p>
+New chapter, same book.
 
-<p>I live and work in beautiful Seattle, <abbr title="Washington">WA</abbr> with my lovely and talented partner <a href="https://twitter.com/ShirleyTemper">Kelly McCarthy</a> and our amazing son Oscar.</p>
+I joined Microsoft in 2015 as a web standards advocate. On the Edge team, I helped shape our Progressive Web App strategy, worked with partners and standards bodies, edited several PWA-related specifications, and created [the Web We Want](https://webwewant.fyi) so more designers and developers could have a say in the web’s future.
+
+In 2022, I turned my attention to accessibility innovation. I directed Microsoft’s $25 million AI for Accessibility portfolio, helped teams navigate Responsible AI reviews, and worked with researchers, product teams, and partner organizations to pry good ideas out of slide decks and put them into people’s hands. That work pulled me deeper into speech AI, custom neural voice, accessible design work, and the engineering systems that keep all of it standing.
+
+Long before Microsoft, I built web products for organizations large and small through my consultancy, [Easy Designs](http://easy-designs.net). I wrote [*Adaptive Web Design*](https://adaptivewebdesign.info/), co-authored the sixth edition of [*Learning Web Design*](https://www.oreilly.com/library/view/learning-web-design/9781098137670/), contributed to numerous other books, and published [dozens of articles](https://www.aaron-gustafson.com/publications/#articles). I’ve spoken and taught at [events around the world](https://www.aaron-gustafson.com/speaking-engagements/), but I’m happiest when a good conversation produces something people can actually use.
+
+Community has shaped nearly every part of my career. I managed the [Web Standards Project](http://webstandards.org), served as Editor in Chief of [A List Apart](http://alistapart.com), co-founded [PWA Summit](https://pwasummit.org) and [Code & Creativity](https://codeandcreativity.com), and helped run projects that teach, connect, and make room for more voices in our field.
+
+The thread through all of it is simple: technology should meet people where they are. Progressive enhancement taught me to build from that premise. Accessibility made the stakes impossible to ignore. Now I’m trying to carry those lessons into AI while remaining steadfastly focused on the people making software and using it.
+
+I live and work in beautiful Seattle, Washington, with my partner, Kelly McCarthy, and our son, Oscar.
 
 <hr>
 
