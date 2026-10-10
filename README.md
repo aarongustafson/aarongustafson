@@ -22,7 +22,7 @@ I live and work in beautiful Seattle, Washington, with my partner, Kelly McCarth
 
 <hr>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/aarongustafson/ama)
+[![Sponsor me!](https://img.shields.io/badge/Sponsor-me-blue?logo=githubsponsors)](https://github.com/sponsors/aarongustafson/) &nbsp;&nbsp;&nbsp; [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/aarongustafson/ama?style=for-the-badge)
 
 <hr>
 
